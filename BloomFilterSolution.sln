@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloomFilter", "BloomFilter\BloomFilter.csproj", "{326EB3CF-E7D7-4FB0-8727-82ECE7742973}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{DB799462-3779-4389-AA30-BF9C86396F75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{326EB3CF-E7D7-4FB0-8727-82ECE7742973}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{326EB3CF-E7D7-4FB0-8727-82ECE7742973}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{326EB3CF-E7D7-4FB0-8727-82ECE7742973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB799462-3779-4389-AA30-BF9C86396F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB799462-3779-4389-AA30-BF9C86396F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB799462-3779-4389-AA30-BF9C86396F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB799462-3779-4389-AA30-BF9C86396F75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
